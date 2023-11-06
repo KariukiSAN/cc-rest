@@ -9,6 +9,8 @@ class Review:
 
     def customer(self):
         return self.customer_obj
+    
+    
 
     def restaurant(self):
         return self.restaurant_obj
